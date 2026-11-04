@@ -6,6 +6,23 @@ FutureWise takes a user's stock portfolio, pulls the latest news for each holdin
 
 > B.Tech (CSE-AIML) Semester VII project, D.Y. Patil College of Engineering & Technology, Kolhapur, 2026-27.
 
+**[Watch the demo video](https://drive.google.com/file/d/1o3dfkDUm9kAuHY5pxjWvCT9l27QUT0pK/view?usp=drivesdk)** | **[Project report](https://drive.google.com/file/d/16Bi8pY06EKANPyCYNeSM-bseG1uxHeMx/view?usp=drivesdk)** | **[IEEE paper](https://drive.google.com/file/d/1cL1vjV0zv0uB1iaU83PN1A17ST_gjheX/view?usp=drivesdk)** | **[All project files](https://drive.google.com/drive/folders/1rUL9dGp_sUeAjsiWxCft1bhEHyZ6fmFF?usp=sharing)**
+
+---
+
+## Demo & Project Documents
+
+| Resource | Description | Link |
+| --- | --- | --- |
+| Demo video (`FutureWise.mp4`) | Walkthrough of the working application | [Watch on Google Drive](https://drive.google.com/file/d/1o3dfkDUm9kAuHY5pxjWvCT9l27QUT0pK/view?usp=drivesdk) |
+| Project report (`Futurewise_report_final_v6.docx`) | Full B.Tech project report: literature review, design, experiments and results | [Open](https://drive.google.com/file/d/16Bi8pY06EKANPyCYNeSM-bseG1uxHeMx/view?usp=drivesdk) |
+| IEEE-format paper (`FutureWise_IEEE_Paper_Linked.docx`) | Research paper version of the project | [Open](https://drive.google.com/file/d/1cL1vjV0zv0uB1iaU83PN1A17ST_gjheX/view?usp=drivesdk) |
+| Source code archive (`FutureWise-Platform-for-investment-main.zip`) | Zipped copy of this repository | [Download](https://drive.google.com/file/d/1WQyo8QHYcEdVTSgemvU2_Ow9G9TrwWCw/view?usp=drivesdk) |
+| Udyam registration certificate | Registration certificate for the FutureWise venture | [Open](https://drive.google.com/file/d/1gp1_sryjNOMD_B1zsOIeSt4eMXi4bhDZ/view?usp=drivesdk) |
+| Copyright filing | Copyright Office Form XIV application record and payment receipt | [Open folder](https://drive.google.com/drive/folders/1KmomqJjJ1lRsdtW_47k04-_Bfw8CDglR) |
+
+Everything is also available in the [FutureWise (Major Project) Drive folder](https://drive.google.com/drive/folders/1rUL9dGp_sUeAjsiWxCft1bhEHyZ6fmFF?usp=sharing).
+
 ---
 
 ## Why FutureWise?
